@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3.bmp</file>
+        <file>iron.jpg</file>
+    </qresource>
+</RCC>
